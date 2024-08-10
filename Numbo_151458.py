@@ -17,5 +17,5 @@ numero2 = " "
 hay_ganador = False
 turno_actual = True
 
-print(tablero)
+
 
